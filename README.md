@@ -5,6 +5,7 @@
 ## Demo
 
 ![IMG](https://res.cloudinary.com/primeflix/image/upload/v1676201263/home_gwo33a.png)
+![VID](https://res.cloudinary.com/primeflix/image/upload/v1676477124/ezgif.com-video-to-gif_w02fod.gif)
 
 
 
